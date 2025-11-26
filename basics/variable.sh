@@ -4,6 +4,7 @@
 name="Gautam"
 age=22
 course="cybersecurity"
+college="RGIPT"
 
 echo "My name is $name"
 echo "My age is $age"
