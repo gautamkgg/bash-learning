@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+echo -p "Enter your age:" age;
+if[$age -lt 18]; then
+echo "your are noeligble for voting"
