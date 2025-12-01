@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+#Finding number is postive,negative or Zero
+
+read -p "Entern the number:" num1
+if (( num1 > 0 )); then
+echo "$num1 is Positive"
+elif (( num1 < 0 )); then
+echo "num1 is Negative number"
+else
+echo "$num1 is Zero Number"
+fi
