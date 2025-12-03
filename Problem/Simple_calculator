@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+#simple calculator
+
+read -p "Enter
